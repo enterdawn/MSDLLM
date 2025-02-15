@@ -1,7 +1,7 @@
 ## MSDLLM
 Official PyTorch implementation for the paper - MSDLLM:Multi-modal Image and Text Fusion Sarcasm Detection via Fine-tuning Large Language Model.
 ### Environment
-python 3.10.8
+Python 3.10.8 and `requirement.txt`
 ### Dataset
 Download and unzip the datasets [SarcNet](https://github.com/yuetanbupt/SarcNet) and [MMSD](https://github.com/joeying1019/mmsd2.0).
 ### Model
