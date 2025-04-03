@@ -1,5 +1,5 @@
 ## MSDLLM
-Official PyTorch implementation for the paper - MSDLLM:Multi-modal Image and Text Fusion Sarcasm Detection via Fine-tuning Large Language Model.
+Official PyTorch implementation for the paper - Multi-modal Image and Text Fusion Sarcasm Detection via Fine-tuning Large Language Model.
 ### Environment
 Python 3.10.8 and `requirement.txt`
 ### Dataset
@@ -15,7 +15,7 @@ python run_mmsd.py
 ```tex
 @article{guan2025msdllm,
   title={MSDLLM:Multi-modal Image and Text Fusion Sarcasm Detection via Fine-tuning Large Language Model},
-  author={Zequn Guan and Yongxue Shan and Chengjie Zhou and Yunjiong Liu and Chao Che},
+  author={Zequn Guan and Yongxue Shan and Junxiang Zhang and Chengjie Zhou and Yunjiong Liu and Chao Che},
   journal={N/A},
   year={2025}
 }
