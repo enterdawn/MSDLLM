@@ -14,7 +14,7 @@ python run_mmsd.py
 ### Citation
 ```tex
 @article{guan2025msdllm,
-  title={MSDLLM:Multi-modal Image and Text Fusion Sarcasm Detection via Fine-tuning Large Language Model},
+  title={Multi-modal Image and Text Fusion Sarcasm Detection via Fine-tuning Large Language Model},
   author={Zequn Guan and Yongxue Shan and Junxiang Zhang and Chengjie Zhou and Yunjiong Liu and Chao Che},
   journal={N/A},
   year={2025}
